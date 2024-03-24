@@ -2,6 +2,7 @@
 
 ![Exo Ape Clone](https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYbgjKKAAgRCQkr-zfmCu0ZAPCz-pyhmYG277N45g4zlNRFhOvo7BLl3i-2OmPeGT5whCvlBsKdrIkUPOFqwhz13uaY0A=w1959-h3483)
 
+
 This project is a clone of the Exo Ape website ([https://www.exoape.com/](https://www.exoape.com/)).
 
 ## Technologies Used
